@@ -61,7 +61,7 @@ Fault severity:
 - FAULT_DEGRADED
 - FAULT_FAILSAFE
 - FAULT_SHUTDOWN
-
+  
 ## Wokwi
 Connect P1–P16 to MUX channels C0–C15. MUX SIG goes to GPIO34 and S0–S3 go to GPIO16–19. EN is tied to GND.
 
