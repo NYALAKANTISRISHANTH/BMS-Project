@@ -2,16 +2,16 @@
 
 | Function | ESP32 Pin |
 |---|---:|
-| MUX SIG/COM | GPIO34 |
-| MUX S0 | GPIO16 |
-| MUX S1 | GPIO17 |
-| MUX S2 | GPIO18 |
-| MUX S3 | GPIO19 |
-| Current sensor/potentiometer | GPIO25 |
-| Relay | GPIO26 |
-| Green LED | GPIO27 |
-| Yellow LED | GPIO14 |
-| Red LED | GPIO12 |
+| MUX SIG/COM | GPIO35 |
+| MUX S0 | GPIO26 |
+| MUX S1 | GPIO25 |
+| MUX S2 | GPIO33 |
+| MUX S3 | GPIO32 |
+| Current sensor/potentiometer | GPIO34 |
+| Relay | GPIO15 |
+| Green LED | GPIO17 |
+| Yellow LED | GPIO16 |
+| Red LED | GPIO4 |
 | Buzzer | GPIO13 |
 | LCD SDA | GPIO21 |
 | LCD SCL | GPIO22 |
@@ -20,7 +20,7 @@
 - VCC -> 3.3 V
 - GND -> GND
 - EN -> GND
-- SIG/COM -> GPIO34
+- SIG/COM -> GPIO35
 - S0-S3 -> GPIO16-GPIO19
 
 ## Cell Potentiometers
