@@ -65,10 +65,5 @@ Fault severity:
 ## Wokwi
 Connect P1–P16 to MUX channels C0–C15. MUX SIG goes to GPIO34 and S0–S3 go to GPIO16–19. EN is tied to GND.
 
-## Repository Structure
-- `src/` — source code
-- `docs/` — mandatory documentation
-- `hardware/` — wiring and pin documentation
-
 ## Limitations
 This is a Wokwi educational simulation. A real 16-cell battery requires an appropriate battery-monitor/protection IC and high-voltage measurement front end.
