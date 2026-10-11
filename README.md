@@ -67,3 +67,5 @@ Connect P1–P16 to MUX channels C0–C15. MUX SIG goes to GPIO34 and S0–S3 go
 
 ## Limitations
 This is a Wokwi educational simulation. A real 16-cell battery requires an appropriate battery-monitor/protection IC and high-voltage measurement front end.
+
+[Demonstration video] https://1drv.ms/v/c/8f1a9bd0e8074199/IQA9yKmwlm4mSYbOXxWU-vQkARsPx9Jsz8bDdA-koDyr8_s?e=qMOXA1
